@@ -53,3 +53,48 @@ p{
 
 }
 
+.miBoton1 {
+  display: inline-block;
+  background-color: #008CBA;
+  color: white;
+  padding: 20px 30px;
+  font-size: 25px;
+  border-radius: 5px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.miBoton:hover {
+  background-color: #005f70;
+}
+
+.miBoton2 {
+  display: inline-block;
+  background-color: #008CBA;
+  color: white;
+  padding: 20px 30px;
+  font-size: 25px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.miBoton:hover {
+  background-color: #005f70;
+}
+
+.miBoton3 {
+  display: inline-block;
+  background-color: #008CBA;
+  color: white;
+  padding: 20px 30px;
+  font-size: 25px;
+  border-radius: 5px;
+  text-align: right;
+  text-decoration: none;
+}
+
+.miBoton:hover {
+  background-color: #005f70;
+}
+
