@@ -37,13 +37,14 @@ padding: 20px;
 
 body {
   background-color: #46ffe6;
+  background-image:url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsb2ZmaWNlMTVfdGhpY2tfcGFpbnRfc3Ryb2tlX29uX2NhbnZhc19ibHVlXzVmNzBjOWQxLTRjOTktNDMwYy1hMGIxLTk0OTMxNzBlYTM0N18xLmpwZw.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   object-fit:cover;
 }
 h1{
-  color: #8d0000;
+  color: #00288d;
   text-shadow: 7px 4px 5px rgb(14, 203, 245);
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -64,8 +65,8 @@ p{
   text-decoration: none;
 }
 
-.miBoton:hover {
-  background-color: #005f70;
+.miBoton1:hover {
+  background-color: #000000;
 }
 
 .miBoton2 {
@@ -79,8 +80,8 @@ p{
   text-decoration: none;
 }
 
-.miBoton:hover {
-  background-color: #005f70;
+.miBoton2:hover {
+  background-color: #000000;
 }
 
 .miBoton3 {
@@ -94,7 +95,12 @@ p{
   text-decoration: none;
 }
 
-.miBoton:hover {
-  background-color: #005f70;
+.miBoton3:hover {
+  background-color: #000000;
 }
 
+p{
+
+  font-family: fantasy;
+
+}

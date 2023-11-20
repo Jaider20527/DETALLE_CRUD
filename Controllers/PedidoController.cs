@@ -45,12 +45,17 @@ namespace DETALLE_CRUD.Controllers
                 var producto = await _context.Productos.FindAsync(item);
                 if (producto != null)
                 {
-                    pedido.Detalles.Add(new PedidoDetalle
-                    {
-                        ProductoId = item,
-                        Cantidad = cantidades[Array.IndexOf(productoIds, item)],
-                        Producto = producto
-                    });
+                    int index= Array.IndexOf(productoIds, item);
+                    if(index>=0 && index < cantidades.Length){
+                          pedido.Detalles.Add(new PedidoDetalle
+                          {
+                             ProductoId = item,
+                             Cantidad = cantidades[Array.IndexOf(productoIds, item)],
+                             Producto = producto
+                          
+                          });
+                
+                    }
                 }
             }
             _context.Pedidos.Add(pedido);
