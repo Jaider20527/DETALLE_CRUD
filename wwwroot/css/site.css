@@ -37,13 +37,14 @@ padding: 20px;
 
 body {
   background-color: #46ffe6;
+  background-image:url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsb2ZmaWNlMTVfdGhpY2tfcGFpbnRfc3Ryb2tlX29uX2NhbnZhc19ibHVlXzVmNzBjOWQxLTRjOTktNDMwYy1hMGIxLTk0OTMxNzBlYTM0N18xLmpwZw.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   object-fit:cover;
 }
 h1{
-  color: #8d0000;
+  color: #00288d;
   text-shadow: 7px 4px 5px rgb(14, 203, 245);
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -53,3 +54,53 @@ p{
 
 }
 
+.miBoton1 {
+  display: inline-block;
+  background-color: #008CBA;
+  color: white;
+  padding: 20px 30px;
+  font-size: 25px;
+  border-radius: 5px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.miBoton1:hover {
+  background-color: #000000;
+}
+
+.miBoton2 {
+  display: inline-block;
+  background-color: #008CBA;
+  color: white;
+  padding: 20px 30px;
+  font-size: 25px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.miBoton2:hover {
+  background-color: #000000;
+}
+
+.miBoton3 {
+  display: inline-block;
+  background-color: #008CBA;
+  color: white;
+  padding: 20px 30px;
+  font-size: 25px;
+  border-radius: 5px;
+  text-align: right;
+  text-decoration: none;
+}
+
+.miBoton3:hover {
+  background-color: #000000;
+}
+
+p{
+
+  font-family: fantasy;
+
+}
