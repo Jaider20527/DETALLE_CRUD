@@ -221,9 +221,6 @@ C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\runtimes
 C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
@@ -504,3 +501,9 @@ C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD-master\obj\Debug\net7.0\r
 C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD-master\obj\Debug\net7.0\DETALLE_CRUD.pdb
 C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD-master\obj\Debug\net7.0\DETALLE_CRUD.genruntimeconfig.cache
 C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD-master\obj\Debug\net7.0\ref\DETALLE_CRUD.dll
+C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\WebDriver.dll
+C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pasante.desarrollo1\source\repos\DETALLE_CRUD\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
